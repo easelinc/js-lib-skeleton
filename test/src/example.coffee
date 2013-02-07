@@ -4,5 +4,5 @@ $ ->
   module("SomeModule")
 
   test "test name", ->
-    ok( $.Rando == 4, "Passed!" )
+    ok( $.Rando() == 4, "Passed!" )
 

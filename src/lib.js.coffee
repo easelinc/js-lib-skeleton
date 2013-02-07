@@ -1,4 +1,0 @@
-
-window.Rando = ->
-  4
-
