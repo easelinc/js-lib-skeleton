@@ -10,10 +10,15 @@ This is a skeleton for small js libraries.
 
 ### Structure
 
-* /test/src - coffeescript qunit tests
+* /test/src - coffeescript jasmine tests
 * /test/suite - runs the tests
 * /src - your coffeescript
 * library.js - generated js
+
+### Contributing
+
+* Send a pull request.
+* Write tests. New untested code will not be merged.
 
 ### Rando
 
