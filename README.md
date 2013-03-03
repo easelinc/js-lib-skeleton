@@ -3,9 +3,9 @@ This is a skeleton for small js libraries.
 ### Contents
 
 * a README
-* a simple test structure you dont need any other packages to run: [jasmine](http://pivotal.github.com/jasmine/)
+* a simple test structure you dont need any other packages to run: [jasmine][jasmine]
 * coffeescript
-  * [install coffeescript](http://jashkenas.github.com/coffee-script/#installation)
+  * [install coffeescript][install]
   * `make watch` and `make test-watch`
 
 ### Structure
@@ -17,12 +17,17 @@ This is a skeleton for small js libraries.
 
 ### Contributing
 
+* adhere to our [styleguide][styleguide]
 * Send a pull request.
 * Write tests. New untested code will not be merged.
 
 ### Rando
 
-SKELETONSKELETONSKELETONSKELETONSKELETON
-http://buttersafe.com/2008/03/13/romance-on-the-floating-island/
+[SKELETONSKELETONSKELETONSKELETONSKELETON][skeleton]
 
 MIT License
+
+[jasmine]: http://pivotal.github.com/jasmine/
+[install]: http://jashkenas.github.com/coffee-script/#installation
+[skeleton]: http://buttersafe.com/2008/03/13/romance-on-the-floating-island/
+[styleguide]: https://github.com/easelinc/coffeescript-style-guide
